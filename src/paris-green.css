@@ -1,5 +1,12 @@
+/*TEXT*/
 .text-green{
   color: #50C878;
+}
+
+.text-green-gradient{
+  background: -webkit-linear-gradient(#50C878, #27613a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 /*BACKGROUNDS*/
 .background-green{
